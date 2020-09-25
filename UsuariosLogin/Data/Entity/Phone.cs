@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace UsuariosLogin.Data.Entity
+﻿namespace UsuariosLogin.Data.Entity
 {
     public class Phone
     {

@@ -3,10 +3,10 @@ using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.Json;
 using System.Threading.Tasks;
 using UsuariosLogin.Data.Entity;
 using UsuariosLogin.Models;
-using System.Text.Json;
 
 namespace UsuariosLogin.Infrastructure
 {
