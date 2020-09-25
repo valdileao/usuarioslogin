@@ -1,2 +1,2 @@
 # usuarioslogin
-Created a .net core 3.1 web api using JWT token and in memory db. This application create, login and query a user.
+Using .NET Core 3.1 Identity Web API with JWT and in memory db
